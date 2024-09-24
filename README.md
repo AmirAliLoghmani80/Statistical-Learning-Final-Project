@@ -1,10 +1,3 @@
-It seems that I referenced the wrong file for the README. Let me examine the correct content from the file you uploaded and generate an appropriate README based on that. 
-
-Please give me a moment to review the document in detail.
-
-Here is a suggested README for your project based on the information from the file you uploaded:
-
----
 
 # Statistical Learning Final Project
 
